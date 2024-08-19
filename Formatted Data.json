@@ -1,0 +1,22 @@
+{
+  "buildTime": "2024-08-17T15:16:15.421Z",
+  "sources": [
+    {
+      "id": "Erosscans",
+      "name": "Erosscans",
+      "author": "encikpulasan",
+      "desc": "Extension that pulls comics from erosscans.xyz",
+      "website": "https://github.com",
+      "contentRating": "MATURE",
+      "version": "1.0",
+      "icon": "icon.png",
+      "tags": [],
+      "websiteBaseURL": "https://erosscans.xyz",
+      "intents": 21
+    }
+  ],
+  "builtWith": {
+    "toolchain": "0.8.7",
+    "types": "0.8.7"
+  }
+}
